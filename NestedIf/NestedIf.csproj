@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85483C24-4AA4-4F4F-8E60-3C71BE029605}</ProjectGuid>
+    <ProjectGuid>{D1C05A3C-78D4-4182-B549-4FA5570F403F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OddEven_Ternary</RootNamespace>
-    <AssemblyName>OddEven_Ternary</AssemblyName>
+    <RootNamespace>NestedIf</RootNamespace>
+    <AssemblyName>NestedIf</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

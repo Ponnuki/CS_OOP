@@ -1,0 +1,6 @@
+D:\Source\CS_OOP\OddEven_Ternary\bin\Debug\OddEven_Ternary.exe.config
+D:\Source\CS_OOP\OddEven_Ternary\bin\Debug\OddEven_Ternary.exe
+D:\Source\CS_OOP\OddEven_Ternary\bin\Debug\OddEven_Ternary.pdb
+D:\Source\CS_OOP\OddEven_Ternary\obj\Debug\OddEven_Ternary.csprojResolveAssemblyReference.cache
+D:\Source\CS_OOP\OddEven_Ternary\obj\Debug\OddEven_Ternary.exe
+D:\Source\CS_OOP\OddEven_Ternary\obj\Debug\OddEven_Ternary.pdb

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven_Ternary", "OddEven_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedIf", "NestedIf\NestedIf.csproj", "{D1C05A3C-78D4-4182-B549-4FA5570F403F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear", "LeapYear\LeapYear.csproj", "{E66938EA-205A-46BF-BB0F-77B57EBBFAC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{D1C05A3C-78D4-4182-B549-4FA5570F403F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1C05A3C-78D4-4182-B549-4FA5570F403F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1C05A3C-78D4-4182-B549-4FA5570F403F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66938EA-205A-46BF-BB0F-77B57EBBFAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66938EA-205A-46BF-BB0F-77B57EBBFAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66938EA-205A-46BF-BB0F-77B57EBBFAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66938EA-205A-46BF-BB0F-77B57EBBFAC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

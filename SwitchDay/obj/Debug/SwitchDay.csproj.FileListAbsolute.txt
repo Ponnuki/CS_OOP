@@ -1,0 +1,6 @@
+D:\Source\CS_OOP\SwitchDay\obj\Debug\SwitchDay.csprojResolveAssemblyReference.cache
+D:\Source\CS_OOP\SwitchDay\bin\Debug\SwitchDay.exe.config
+D:\Source\CS_OOP\SwitchDay\bin\Debug\SwitchDay.exe
+D:\Source\CS_OOP\SwitchDay\bin\Debug\SwitchDay.pdb
+D:\Source\CS_OOP\SwitchDay\obj\Debug\SwitchDay.exe
+D:\Source\CS_OOP\SwitchDay\obj\Debug\SwitchDay.pdb

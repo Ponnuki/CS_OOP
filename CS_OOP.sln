@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchDay", "SwitchDay\Swit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{534FBA77-6B89-405F-A037-42BF93A31DDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedForLoop", "NestedForLoop\NestedForLoop.csproj", "{5519689E-1ACC-49AE-A3FC-9BEF393A292F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{534FBA77-6B89-405F-A037-42BF93A31DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534FBA77-6B89-405F-A037-42BF93A31DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534FBA77-6B89-405F-A037-42BF93A31DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5519689E-1ACC-49AE-A3FC-9BEF393A292F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5519689E-1ACC-49AE-A3FC-9BEF393A292F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5519689E-1ACC-49AE-A3FC-9BEF393A292F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5519689E-1ACC-49AE-A3FC-9BEF393A292F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

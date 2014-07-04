@@ -24,16 +24,30 @@ namespace Exercise_Factorial
             }
             else
             {
-                factorial_statement = string.Format("{0}! =", number);
-                for (int i = number; i >= 1; i--)
+                if (number < 0)
                 {
-                    factorialValue *= i;
-                    factorial_statement = i == number ? string.Format("{0} {1}", factorial_statement, i) : string.Format("{0} * {1}", factorial_statement, i);
+                    Console.WriteLine("Number must be positive");
                 }
+                else
+                {
+                    if (number == 0)
+                    {
+                        factorialValue = 1;
+                    }
+                    else
+                    {
+                        factorial_statement = string.Format("{0}! =", number);
+                        for (int i = number; i >= 1; i--)
+                        {
+                            factorialValue *= i;
+                            factorial_statement = i == number ? string.Format("{0} {1}", factorial_statement, i) : string.Format("{0} * {1}", factorial_statement, i);
+                        }
 
-                Console.WriteLine(factorial_statement);
-                Console.WriteLine(string.Format("{0}! = {1}", number, factorialValue));
-            }           
+                        Console.WriteLine(factorial_statement);
+                    }
+                    Console.WriteLine(string.Format("{0}! = {1}", number, factorialValue));
+                }
+            }
         }
     }
 }

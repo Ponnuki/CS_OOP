@@ -1,0 +1,5 @@
+D:\Source\CS_OOP\Exercise_Pyramid\bin\Debug\Exercise_Pyramid.exe.config
+D:\Source\CS_OOP\Exercise_Pyramid\bin\Debug\Exercise_Pyramid.exe
+D:\Source\CS_OOP\Exercise_Pyramid\bin\Debug\Exercise_Pyramid.pdb
+D:\Source\CS_OOP\Exercise_Pyramid\obj\Debug\Exercise_Pyramid.exe
+D:\Source\CS_OOP\Exercise_Pyramid\obj\Debug\Exercise_Pyramid.pdb

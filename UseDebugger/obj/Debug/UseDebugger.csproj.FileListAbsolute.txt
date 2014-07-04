@@ -1,0 +1,6 @@
+D:\Source\CS_OOP\UseDebugger\bin\Debug\UseDebugger.exe.config
+D:\Source\CS_OOP\UseDebugger\bin\Debug\UseDebugger.exe
+D:\Source\CS_OOP\UseDebugger\bin\Debug\UseDebugger.pdb
+D:\Source\CS_OOP\UseDebugger\obj\Debug\UseDebugger.exe
+D:\Source\CS_OOP\UseDebugger\obj\Debug\UseDebugger.pdb
+D:\Source\CS_OOP\UseDebugger\obj\Debug\UseDebugger.csprojResolveAssemblyReference.cache

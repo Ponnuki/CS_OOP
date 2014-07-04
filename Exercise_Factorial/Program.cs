@@ -13,27 +13,27 @@ namespace Exercise_Factorial
             bool flag;
             int number;
             double factorialValue = 1;
-            string output;
+            string factorial_statement;
 
             Console.Write("Please enter a number:");
             flag = int.TryParse(Console.ReadLine(), out number);
 
             if (!flag)
             {
-                output = "Not a number";
+                factorial_statement = "Not a number";
             }
             else
             {
-                for (int i = 1; i <= number; i++)
+                factorial_statement = string.Format("{0}! =", number);
+                for (int i = number; i >= 1; i--)
                 {
                     factorialValue *= i;
+                    factorial_statement = i == number ? string.Format("{0} {1}", factorial_statement, i) : string.Format("{0} * {1}", factorial_statement, i);
                 }
 
-                output = string.Format("Factorial of {0} = {1}", number, factorialValue);
-            }
-
-            Console.WriteLine(output);
-            
+                Console.WriteLine(factorial_statement);
+                Console.WriteLine(string.Format("{0}! = {1}", number, factorialValue));
+            }           
         }
     }
 }

@@ -1,6 +1,0 @@
-D:\Source\CS_OOP\Exercise_Length\bin\Debug\Exercise_Length.exe.config
-D:\Source\CS_OOP\Exercise_Length\bin\Debug\Exercise_Length.exe
-D:\Source\CS_OOP\Exercise_Length\bin\Debug\Exercise_Length.pdb
-D:\Source\CS_OOP\Exercise_Length\obj\Debug\Exercise_Length.csprojResolveAssemblyReference.cache
-D:\Source\CS_OOP\Exercise_Length\obj\Debug\Exercise_Length.exe
-D:\Source\CS_OOP\Exercise_Length\obj\Debug\Exercise_Length.pdb

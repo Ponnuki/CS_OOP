@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Exercise_Length
+namespace Exercise_Interest
 {
     class Program
     {
@@ -16,11 +12,11 @@ namespace Exercise_Length
 
             Console.WriteLine(string.Format("Start year 0, Asset:{0:C}\n", value));
 
-            for (int i = 1; i <= year; i++)
+            for (int i = 0; i <= year; i++)
             {
                 //Compounding interest
-                value = value * ( 1 + interest_rate);
-                Console.WriteLine("Start of Year {0}, Asset {1:C}", i, value);
+                value = value * (1 + interest_rate);
+                Console.WriteLine("End of Year {0:D} , Asset {1:C}", i, value);
             }
         }
     }

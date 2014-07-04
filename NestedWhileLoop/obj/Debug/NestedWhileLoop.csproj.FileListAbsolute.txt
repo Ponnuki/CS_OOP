@@ -1,0 +1,6 @@
+D:\Source\CS_OOP\NestedWhileLoop\bin\Debug\NestedWhileLoop.exe.config
+D:\Source\CS_OOP\NestedWhileLoop\bin\Debug\NestedWhileLoop.exe
+D:\Source\CS_OOP\NestedWhileLoop\bin\Debug\NestedWhileLoop.pdb
+D:\Source\CS_OOP\NestedWhileLoop\obj\Debug\NestedWhileLoop.csprojResolveAssemblyReference.cache
+D:\Source\CS_OOP\NestedWhileLoop\obj\Debug\NestedWhileLoop.exe
+D:\Source\CS_OOP\NestedWhileLoop\obj\Debug\NestedWhileLoop.pdb

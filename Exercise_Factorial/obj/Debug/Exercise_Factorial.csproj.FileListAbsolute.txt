@@ -1,0 +1,6 @@
+D:\Source\CS_OOP\Exercise_Factorial\bin\Debug\Exercise_Factorial.exe.config
+D:\Source\CS_OOP\Exercise_Factorial\bin\Debug\Exercise_Factorial.exe
+D:\Source\CS_OOP\Exercise_Factorial\bin\Debug\Exercise_Factorial.pdb
+D:\Source\CS_OOP\Exercise_Factorial\obj\Debug\Exercise_Factorial.csprojResolveAssemblyReference.cache
+D:\Source\CS_OOP\Exercise_Factorial\obj\Debug\Exercise_Factorial.exe
+D:\Source\CS_OOP\Exercise_Factorial\obj\Debug\Exercise_Factorial.pdb

@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseDebugger", "UseDebugger\UseDebugger.csproj", "{573B2743-895F-4201-AEE9-2CE2A087D722}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Factorial", "Exercise_Factorial\Exercise_Factorial.csproj", "{F1F424CB-E21F-45ED-9795-4CFD67FD7002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{573B2743-895F-4201-AEE9-2CE2A087D722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{573B2743-895F-4201-AEE9-2CE2A087D722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{573B2743-895F-4201-AEE9-2CE2A087D722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F424CB-E21F-45ED-9795-4CFD67FD7002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F424CB-E21F-45ED-9795-4CFD67FD7002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F424CB-E21F-45ED-9795-4CFD67FD7002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F424CB-E21F-45ED-9795-4CFD67FD7002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

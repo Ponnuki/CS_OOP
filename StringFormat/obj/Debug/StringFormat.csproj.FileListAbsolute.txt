@@ -1,0 +1,6 @@
+D:\Source\CS_OOP\StringFormat\bin\Debug\StringFormat.exe.config
+D:\Source\CS_OOP\StringFormat\bin\Debug\StringFormat.exe
+D:\Source\CS_OOP\StringFormat\bin\Debug\StringFormat.pdb
+D:\Source\CS_OOP\StringFormat\obj\Debug\StringFormat.csprojResolveAssemblyReference.cache
+D:\Source\CS_OOP\StringFormat\obj\Debug\StringFormat.exe
+D:\Source\CS_OOP\StringFormat\obj\Debug\StringFormat.pdb
